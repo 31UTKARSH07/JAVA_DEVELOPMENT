@@ -1,0 +1,6 @@
+Overriding in Java
+
+
+Overriding in Java occurs when a subclass or child class implements a method that is already defined
+in the superclass or base class. When a subclass provides its own version of a method that is already
+defined in its superclass, we call it method overriding.
